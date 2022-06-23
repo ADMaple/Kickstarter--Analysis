@@ -1,3 +1,4 @@
+
 # Kickstarting with Excel 
 
 ## Performing analysis on Kickstarter data to uncover trends.
@@ -7,8 +8,10 @@
 ### The analysis was performed by creating pivot tables to better break down and categorize the data. This also allowed it to be easier to present the data in chart and table format that would be better for Louise to comprehend the data. I has some challenges when analyzing the outcome vs goals. The data was not pulling in correctly. My assumption is that there may be some error in the COUNTIFS Function.  I tried working through this multiple times.
 
 ### The analysis of the Outcomes Based on Launch Date focused the theater parent category. This also could be drilled down further to compare the subcategories within the Theater.
+![Theater_Outcomes _vs_Launch](https://user-images.githubusercontent.com/108022219/175203302-29b71fc1-2fd5-4bb3-b1d9-b1223c96948c.png)
 
 ### The anaylsis of the Outcomes Based on Goals took a deeper dive into the subcategory of plays. Which allow for a more concise analysis.
+[Outcomes_vs_Goals](https://user-images.githubusercontent.com/108022219/175203415-e9b7778f-58de-4c86-922d-0d0def0cd8c8.png)
 
 ## Results
 
